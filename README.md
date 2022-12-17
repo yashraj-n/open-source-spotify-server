@@ -4,7 +4,8 @@
 </h1>
 
 ![API URL](https://img.shields.io/badge/Endpoint-https%3A%2F%2Foss--spotify.cosii.workers.dev%2F-blue)
-
+<br>
+[API](https://oss-spotify.cosii.workers.dev/)
 
 ---
 
